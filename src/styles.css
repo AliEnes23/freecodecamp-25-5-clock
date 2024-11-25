@@ -1,0 +1,21 @@
+.pomodoro-clock {
+  text-align: center;
+}
+
+.pomodoro-header {
+  margin-bottom: 20px;
+}
+
+#break-label, #session-label {
+  margin: 10px;
+}
+
+#time-left {
+  font-size: 3rem;
+  margin: 20px 0;
+}
+
+button {
+  margin: 5px;
+  padding: 10px 20px;
+}
